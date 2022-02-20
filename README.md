@@ -7,7 +7,7 @@ Our purpose for this project is to assist the Colorado Board of Elections by wor
 
 ## Election-Audit Results
 
-### Election Outcomes
+### Election Outcome
 - There was a total of 369,711 votes cast in this congressional election. 
 - As shown in the Python script's output below, the following results is the vote breakdown between county in the precinct. 
   - Jefferson County had 38,855 votes cast for 10.5% of the total vote results.
@@ -19,7 +19,7 @@ Our purpose for this project is to assist the Colorado Board of Elections by wor
   - Diana DeGette had 272,892 votes for 73.8% of the total votes in the election.
   - Raymon Anthony Doane had 11,606 votes for 3.1% of the total votes in the election. 
 - Diana Degette has won this election at 272,892 votes which was 73.8% of the total vote count. 
-![Election Analysis Results]
+![Election Analysis Results](analysis/election_results.png)
 
 ## Election-Audit Summary
 
